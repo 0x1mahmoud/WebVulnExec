@@ -1,4 +1,4 @@
-## Made by Mahmoud Ashraf
+## Mahmoud Ashraf && Noah
 ## This tool created to test and detect web application parameter with the injected vulnerabilities.
 ## Open Source Tool // You Can EDIT on it.
 
