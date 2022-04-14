@@ -22,4 +22,4 @@ Ask any question: mahmoudashrafxp@gmail.com
 
 OR
 
-.. _LinkedIn: https://www.linkedin.com/in/mahmoud-abdelkader-417361204/
+**LinkedIn:** *https://www.linkedin.com/in/mahmoud-abdelkader-417361204/*
