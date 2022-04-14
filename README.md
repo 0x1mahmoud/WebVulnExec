@@ -20,6 +20,6 @@ you have to automate it. that's why WebVulnExec is here to check the vulnerable 
 ## Contributions:
 Ask any question: mahmoudashrafxp@gmail.com
 
-`LinkedIn`_
+OR
 
 .. _LinkedIn: https://www.linkedin.com/in/mahmoud-abdelkader-417361204/
