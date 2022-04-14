@@ -1,10 +1,5 @@
 # WebVulnExec
 
-# Build Status
-
-[![Build Status](https://travis-ci.org/ContinuumIO/ciocheck.svg?branch=master)](https://travis-ci.org/ContinuumIO/ciocheck)
-[![Build status](https://ci.appveyor.com/api/projects/status/ylipp3kgn5t4hpdw?svg=true)](https://ci.appveyor.com/project/ContinuumAnalytics/ciocheck)
-
 ## Description
 Python Automated tool. Created to test and detect the parameters that could be vulnerable with injection vulnerabilities.
 
